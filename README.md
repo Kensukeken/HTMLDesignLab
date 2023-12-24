@@ -20,7 +20,7 @@ HTMLDesignLab is a project aimed at simplifying and enhancing the web design exp
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/HTMLDesignLab.git
+   git clone https://github.com/Kensukeken/HTMLDesignLab.git
    ```
 
 2. **Explore Components:**
