@@ -1,4 +1,3 @@
-
 # HTMLDesignLab
 
 Welcome to HTMLDesignLab, your go-to resource for crafting stunning and responsive web designs using HTML! Whether you're a seasoned developer or just starting your journey in web development, HTMLDesignLab provides a curated set of tools, templates, and resources to streamline your HTML design process.
