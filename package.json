@@ -1,0 +1,22 @@
+{
+  "name": "htmldesignlab",
+  "version": "1.0.0",
+  "description": "Welcome to HTMLDesignLab, your go-to resource for crafting stunning and responsive web designs using HTML! Whether you're a seasoned developer or just starting your journey in web development, HTMLDesignLab provides a curated set of tools, templates, and resources to streamline your HTML design process.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "webpack",
+    "build:dev": "webpack serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kensukeken",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  }
+}
